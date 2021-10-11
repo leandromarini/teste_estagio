@@ -2,7 +2,7 @@
 
 Aplicativo de vendas feito em Flutter para teste de estágio
 
-Link para acesso rápido: https://leandromarini.github.io/teste_estagio_page/#/
+Teste aqui: https://leandromarini.github.io/teste_estagio_page/#/
 
 ## Getting Started
 
