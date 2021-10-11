@@ -1,6 +1,6 @@
 # teste_estagio
 
-A new Flutter project.
+Aplicativo de vendas feito em Flutter para teste de estágio
 
 ## Getting Started
 
